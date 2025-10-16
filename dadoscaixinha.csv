@@ -1,0 +1,18 @@
+Tópico;Subtópico;Descrição;Opções;Resposta
+Caixinha;Aumento de limite;"O limite da caixinha é definido pelo superintendente do shopping, mediante aprovação do superintendente de portfólio.
+Caso seja necessário ajustar esse valor, o superintendente do shopping deverá solicitar nova aprovação ao superintendente de portfólio e alinhar a alteração previamente com a tesouraria do BackOffice.";;
+Caixinha;Comprovantes;"Para realizar a recarga, é obrigatório anexar os comprovantes de gastos no momento da abertura do chamado. Atenção: comprovantes faltantes terão o valor correspondente descontado do total da recarga.
+O comprovante da recarga ficará disponível no próprio chamado em até 1 dia útil após a data do pagamento.";;
+Caixinha;Datas;A solicitação para recarga da caixinha deve ser feita até o dia 25 do mês. O depósito será realizado em até 48 horas, conforme o SLA.;;
+Caixinha;Prestação de contas;"Manter a prestação de contas em dia é essencial para garantir controle e organização.
+Onde encontrar: Acesse a tabela padrão na Base de Conhecimento: Tesouraria > Modelos > Prestação de Contas - Caixinha
+
+Como preencher: Cada custo deve ser lançado em uma linha da tabela, sempre acompanhado dos comprovantes correspondentes.";;
+Caixinha;Reembolso;"Os gastos realizados em nome da empresa (CNPJ) devem ser tratados diretamente com a Tesouraria. Nesses casos, o valor é disponibilizado no caixinha, e o colaborador pode fazer o saque ou usar o crédito — sempre exclusivamente para despesas corporativas, combinado?
+Para mais informações, acesse a base de conhecimento no Qualitor: Tesouraria > Políticas > Política de Reembolso e Política de Caixinha.
+Se a solicitação for para recarga no cartão corporativo, é necessário abrir um chamado no Qualitor: Tesouraria > Pagamentos > Caixinha.
+O setor de Administração de Pessoal cuida exclusivamente dos reembolsos de despesas pessoais,ou seja, aquelas feitas em nome da pessoa física durante atividades a serviço da empresa, como jantares em viagens, transporte por aplicativo e outras similares.
+Para solicitar o reembolso de despesas do setor de Administração de Pessoal, acesse: Qualitor > Gestão de Pessoal > Reembolso.
+Para que o pagamento seja realizado no dia 29, a solicitação precisa ser registrada até o dia 20 do mesmo mês. Para fazer a solicitação, abra um chamado no Qualitor pelo caminho: DP > Gestão de Pessoal > Pagamentos > Reembolso.
+Dentro do chamado, você encontrará o link para o formulário, que precisa ser preenchido e assinado pelo colaborador e pelo gestor.
+O formulário deve ser enviado junto com os comprovantes das despesas e o comprovante do lançamento aprovado no sistema TM.";;
